@@ -1,0 +1,3 @@
+hate,love,How I hate to get up in the morning!
+major,minor,The major problem is how to major in two distinct subjects.
+animals,objects,Such objects are said to be damaged.

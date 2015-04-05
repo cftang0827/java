@@ -10,7 +10,7 @@ THIS IS HOMEWORK 3 OF OBJECT ORIENT PROGRAMMING COURSE
 public class MyClass {
 	public int calPopulation(int initialSize, int day){
 		int time = day / 5;
-		
+		//there are Fibonacci general solution
 		if(time ==1)
 		{
 			return initialSize*time;
@@ -27,7 +27,7 @@ public class MyClass {
 			{
 				int temp = b;
 				b = a + b;
-				a = temp;
+				a = temp;// we do not use recursion, instead, we remember two number and add
 			}
 			return b*initialSize;
 		}

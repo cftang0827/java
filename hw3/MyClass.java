@@ -11,12 +11,12 @@ public class MyClass {
 		String output = new String();//declare new string to store output
 		String[] sub_string = inputText.split(" ");//split original string to small piece
 		
-		output = sub_string[0]+" ";//initialize output with first element
+		output = sub_string[0];//initialize output with first element
 		for(int j=0;j<sub_string.length;j++)
 		{
 		 	if(! output.contains(sub_string[j]))
 			{
-				output = output + sub_string[j]+" ";
+				output = output + " "+sub_string[j];
 			}
 		}
 		//find whether there are same substring in the output, if so do not add in the output string

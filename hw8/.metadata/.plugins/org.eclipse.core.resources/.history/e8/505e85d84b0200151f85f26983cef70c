@@ -1,0 +1,20 @@
+public class ShapeFactory {
+	enum Type {
+		Triangle,Square,Circle	
+	}
+	
+	public Shape createShape(ShapeFactory.Type shapeType, double length){
+		switch(shapeType){
+			case Triangle:
+				Triangle tri = new Triangle(length);
+				return tri;
+			case Square:
+				Square squ = new Square(length);
+				return squ;
+			case Circle:
+				Circle cir = new Circle(length);
+				return cir;
+		}
+		
+	}
+}

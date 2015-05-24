@@ -1,0 +1,19 @@
+INDEX VERSION 1.127+C:\Users\CF Tang\Desktop\java\hw8\.metadata\.plugins\org.eclipse.jdt.core
+179648980.index
+3792972368.index
+2017944108.index
+696265233.index
+2242744626.index
+4091216833.index
+2635725478.index
+3409668646.index
+1561127327.index
+2807293953.index
+2870801694.index
+666895131.index
+1612312689.index
+3266551244.index
+2592311490.index
+3812544330.index
+864183119.index
+348986463.index
